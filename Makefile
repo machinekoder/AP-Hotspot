@@ -1,4 +1,4 @@
-PREFIX := /usr/bin
+PREFIX := /usr/sbin
 
 all:
 	@echo "Nothing to build"
